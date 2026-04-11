@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alin 👋
 
-<!--
-**POGorilla/POGorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student @ Politehnica Bucharest** | 3rd Year  
+Focused on **Backend Engineering** with Java & Spring Boot
 
-Here are some ideas to get you started:
+## What I Build
+- Full-stack apps with **Java, Spring Boot, React**
+- REST APIs, WebSocket services, database-driven systems
+- IoT prototypes with ESP32 & Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Java, Python, C/C++, JavaScript, Verilog  
+**Backend:** Spring Boot, Spring Security, Spring Data JPA, Hibernate  
+**Databases:** MySQL, PostgreSQL, H2  
+**Frontend:** React, JavaFX  
+**Tools:** Git, Maven, Postman, IntelliJ IDEA
+
+## Featured Projects
+- 🎵 [Winampify 95](https://github.com/POGorilla/hackitall) — Retro music player with React + Spring Boot + WebSockets
+- 🎧 [Cloneify](https://github.com/POGorilla/Cloneify) — AI-powered music app with JavaFX + Gemini API
+- 🏛️ [Ballroom Event Manager](https://github.com/POGorilla/Ballroom-Event-Manager) — Event management system with JavaFX + MySQL
+- 🔒 [Smart Barrier](https://github.com/POGorilla/smart-barrier) — IoT access control with ESP32 + QR + Telegram
+
+📫 alinmirica5576marian@gmail.com
