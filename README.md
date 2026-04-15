@@ -4,7 +4,7 @@
 Focused on **Backend Engineering** with Java & Spring Boot
 
 ## What I Build
-- Full-stack apps with **Java, Spring Boot, React**
+- Fullstack apps with **Java, Spring Boot, React (just begun learning it!)**
 - REST APIs, WebSocket services, database-driven systems
 - IoT prototypes with ESP32 & Arduino
 
